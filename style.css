@@ -1,0 +1,12 @@
+#video {
+    width: 100%;
+}
+.tarvel_MainDiv {
+    border: 1px solid lightgray;
+}
+.tarvel_MainDiv img {
+    width: 100%;
+}
+.tarvel_MainDiv h5, .tarvel_MainDiv p {
+    margin: 20px;
+}
